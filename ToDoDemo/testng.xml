@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TodoActivities">
+  <listeners> <listener class-name= "ToDoAssessment.Listeners"/> </listeners>
+  <test thread-count="5" name="TodoTestCases">
+    <classes>
+      <class name="ToDoAssessment.TodoTestCases"/>
+    </classes>
+  </test> <!-- TodoTestCases -->
+</suite> <!-- TodoActivities -->

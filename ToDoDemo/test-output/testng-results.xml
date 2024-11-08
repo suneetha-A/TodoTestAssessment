@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-08T16:10:26 SGT" name="Default suite" finished-at="2024-11-08T16:10:42 SGT" duration-ms="16631">
+    <groups>
+    </groups>
+    <test started-at="2024-11-08T16:10:26 SGT" name="Default test" finished-at="2024-11-08T16:10:42 SGT" duration-ms="16631">
+      <class name="ToDoAssessment.TodoTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:26 SGT" name="setUp" finished-at="2024-11-08T16:10:27 SGT" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyDestroyButton()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:27 SGT" name="VerifyDestroyButton" finished-at="2024-11-08T16:10:28 SGT" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDestroyButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:28 SGT" name="tearDown" finished-at="2024-11-08T16:10:28 SGT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:28 SGT" name="setUp" finished-at="2024-11-08T16:10:29 SGT" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addTodo()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:29 SGT" name="addTodo" finished-at="2024-11-08T16:10:29 SGT" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTodo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:29 SGT" name="tearDown" finished-at="2024-11-08T16:10:30 SGT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:30 SGT" name="setUp" finished-at="2024-11-08T16:10:30 SGT" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="emptyTodo()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:30 SGT" name="emptyTodo" finished-at="2024-11-08T16:10:31 SGT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyTodo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:31 SGT" name="tearDown" finished-at="2024-11-08T16:10:31 SGT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:31 SGT" name="setUp" finished-at="2024-11-08T16:10:32 SGT" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyActive()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:32 SGT" name="verifyActive" finished-at="2024-11-08T16:10:32 SGT" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyActive -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:32 SGT" name="tearDown" finished-at="2024-11-08T16:10:32 SGT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:32 SGT" name="setUp" finished-at="2024-11-08T16:10:33 SGT" duration-ms="909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAll()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:33 SGT" name="verifyAll" finished-at="2024-11-08T16:10:34 SGT" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:34 SGT" name="tearDown" finished-at="2024-11-08T16:10:34 SGT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:34 SGT" name="setUp" finished-at="2024-11-08T16:10:35 SGT" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCompleted()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:35 SGT" name="verifyCompleted" finished-at="2024-11-08T16:10:35 SGT" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompleted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:35 SGT" name="tearDown" finished-at="2024-11-08T16:10:35 SGT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:35 SGT" name="setUp" finished-at="2024-11-08T16:10:36 SGT" duration-ms="904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCompletedPageClearCompleted()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:36 SGT" name="verifyCompletedPageClearCompleted" finished-at="2024-11-08T16:10:36 SGT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompletedPageClearCompleted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:36 SGT" name="tearDown" finished-at="2024-11-08T16:10:37 SGT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:37 SGT" name="setUp" finished-at="2024-11-08T16:10:37 SGT" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEditInput()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:37 SGT" name="verifyEditInput" finished-at="2024-11-08T16:10:38 SGT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditInput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:38 SGT" name="tearDown" finished-at="2024-11-08T16:10:38 SGT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:38 SGT" name="setUp" finished-at="2024-11-08T16:10:39 SGT" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMainPageAfterClearCompleted()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:39 SGT" name="verifyMainPageAfterClearCompleted" finished-at="2024-11-08T16:10:39 SGT" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMainPageAfterClearCompleted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:39 SGT" name="tearDown" finished-at="2024-11-08T16:10:39 SGT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:39 SGT" name="setUp" finished-at="2024-11-08T16:10:40 SGT" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySelectDownArrowButton()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:40 SGT" name="verifySelectDownArrowButton" finished-at="2024-11-08T16:10:41 SGT" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelectDownArrowButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:41 SGT" name="tearDown" finished-at="2024-11-08T16:10:41 SGT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:41 SGT" name="setUp" finished-at="2024-11-08T16:10:42 SGT" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySelectDownArrowButtonTwotimes()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:42 SGT" name="verifySelectDownArrowButtonTwotimes" finished-at="2024-11-08T16:10:42 SGT" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelectDownArrowButtonTwotimes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ToDoAssessment.TodoTestCases@302c971f]" started-at="2024-11-08T16:10:42 SGT" name="tearDown" finished-at="2024-11-08T16:10:42 SGT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ToDoAssessment.TodoTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
